@@ -15,7 +15,7 @@ MEMO is your personalized AI assistant, designed to simplify tasks using speech 
     - Clone the repository:
 
         ```bash
-        git clone https://github.com/YourUsername/MEMO.git
+        git clone https://github.com/Rishabhjha1421/MEMO.git
         ```
 
 2. **Dependencies**
@@ -56,7 +56,7 @@ MEMO is your personalized AI assistant, designed to simplify tasks using speech 
 
 Contributions and suggestions are encouraged! To contribute:
 - Fork the repository.
-- Create your feature branch (`git checkout -b feature/Rishabhjha')
+- Create your feature branch (`git checkout -b feature/Rishabhjha1421')
 - Create a new Pull Request.
 
 ## 📝 License
