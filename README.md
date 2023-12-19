@@ -56,7 +56,8 @@ MEMO is your personalized AI assistant, designed to simplify tasks using speech 
 
 Contributions and suggestions are encouraged! To contribute:
 - Fork the repository.
-- Create your feature branch (`git checkout -b feature/Rishabhjha1421')
+- ```bash
+git checkout -b feature/Rishabhjha1421
 - Create a new Pull Request.
 
 ## 📝 License
